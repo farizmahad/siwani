@@ -1,0 +1,48 @@
+.body-welcome {
+  height: 1105px;
+  background-image: url("../../assets/img/IMG-20180209-WA0015_1200x750.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+	-webkit-animation-name: example;
+	-webkit-animation: example 5s ease-in  0s infinite alternate running;
+	-moz-animation: example 5s linear  0s infinite alternate running;
+	animation: example 5s linear  0s infinite alternate running;
+}
+
+@-webkit-keyframes example {
+	0% { background-image: url("../../assets/img/IMG-20180209-WA0015_1200x750.png"); }
+	55% { background-image: url("../../assets/img/IMG-20180209-WA0010_1200x750.png"); }
+	100% { background-image: url("../../assets/img/gedung-dprd-cimahi_1200x750.png"); }
+	}
+	@-moz-keyframes example {
+		 0% { background-image: url("../../assets/img/IMG-20180209-WA0015_1200x750.png"); }
+		55% { background-image: url("../../assets/img/IMG-20180209-WA0010_1200x750.png"); }
+		100% { background-image: url("../../assets/img/gedung-dprd-cimahi_1200x750.png"); }
+	}
+	@keyframes example {
+	  0% { background-image: url("../../assets/img/IMG-20180209-WA0015_1200x750.png"); }
+		55% { background-image: url("../../assets/img/IMG-20180209-WA0010_1200x750.png"); }
+		100% { background-image: url("../../assets/img/gedung-dprd-cimahi_1200x750.png"); }
+	}
+	
+@media (min-width: 576px) {
+  .body-welcome {
+    height: 900px;
+    background-image: url("../../assets/img/IMG-20180209-WA0015_1200x750.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+
+@media (min-width: 1200px) {
+  .body-welcome {
+    height: 1105px;
+    background-image: url("../../assets/img/IMG-20180209-WA0015_1200x750.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}

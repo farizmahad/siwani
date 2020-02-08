@@ -1,0 +1,26 @@
+.container-fluid {
+  position: relative;
+}
+
+.textblock {
+  position: absolute;
+  bottom: 8%;
+  right: 0px;
+  background-color: transparent;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 100%;
+}
+
+@media (min-width: 1200px) {
+  .textblock {
+    position: absolute;
+    bottom: 25%;
+    right: 0px;
+    background-color: transparent;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 100%;
+  }
+}
+

@@ -1,0 +1,144 @@
+ <div class="container-fluid">
+                <h4 class="text-dark mb-2"><strong>Daftar Perjalanan Dinas</strong><br></h4>
+                <ol class="breadcrumb" style="font-size: 14px;">
+                    <li class="breadcrumb-item"><a href="index.html"><span>Dashboard</span></a></li>
+                    <li class="breadcrumb-item"><a href="daftar_perjalanan_dinas.html"><span>Perjalanan Dinas</span></a></li>
+                    <li class="breadcrumb-item"><a href="daftar_perjalanan_dinas.html"><span><strong>Daftar Perjalanan Dinas</strong></span></a></li>
+                    <li class="breadcrumb-item"><a href="#"><span><strong>Detail Perjalanan Dinas</strong></span></a></li>
+                </ol>
+                <div class="row">
+                    <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+                        <form>
+                            <div class="card shadow">
+                                <div class="card-header py-3">
+                                    <div><a class="btn btn-primary btn-sm text-size btn-inline-first" role="button" href="form_perjalanan_dinas_no_surat.html"><i class="fas fa-plus-circle"></i>&nbsp;Tambah Perjalanan Dinas</a></div>
+                                    <div>
+                                        <div class="form-row mt-4">
+                                            <div class="col-xl-2">
+                                                <div class="text-center"><img class="img-fluid" src="assets/img/Logo-Cimahi.png" style="width: 100px;"></div>
+                                            </div>
+                                            <div class="col">
+                                                <div>
+                                                    <h2 class="text-center" style="color: rgb(0,0,0);"><strong>DEWAN PERWAKILAN RAKYAT DAERAH</strong><br><strong>KOTA CIMAHI</strong><br></h2>
+                                                </div>
+                                                <div>
+                                                    <h6 class="text-center" style="color: rgb(0,0,0);">Jl. Dra. Hj. Djulaeha Karmita No. 5 Kota Cimahi Telp. / Fax. (022) 6633315 - 6641809</h6>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="text-center">
+                                        <div>
+                                            <hr style="height: 2px;">
+                                        </div>
+                                        <div class="form-row">
+                                            <div class="col-xl-2"></div>
+                                            <div class="col">
+                                                <h5 class="text-dark"><strong><span style="text-decoration: underline;">SURAT TUGAS</span></strong><br><strong>Nomor: 170/0094-ST/DPRD/III/2019</strong></h5>
+                                                <h6 class="text-dark">Pimpinan Dewan Perwakilan Rakyat Daerah Kota Cimahi dengan ini:</h6>
+                                                <h6 class="text-dark"><strong>MENUGASKAN:</strong></h6>
+                                            </div>
+                                        </div>
+                                        <h6 class="text-left text-dark"><strong>Kepada: Pimpinan dan Anggota DPRD Kota Cimahi, yang terdiri dari:</strong></h6>
+                                    </div>
+                                </div>
+                                <div class="card-body border-dark text-size">
+                                    <div class="form-row">
+                                        <div class="col-xl-12">
+                                            <div class="border-dark">
+                                                <div class="table-responsive table-borderless">
+                                                    <table class="table table-striped table-bordered table-hover">
+                                                        <thead>
+                                                            <tr>
+                                                                <th class="text-center text-primary">Pimpinan:</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>1</td>
+                                                                <td>H. Achmad Gunawan, S.H., M.H.</td>
+                                                                <td><strong>Ketua</strong></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>2</td>
+                                                                <td>H. Bambang Purnomo</td>
+                                                                <td><strong>Wakil Ketua</strong></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>3</td>
+                                                                <td>Wahyu Widyatmoko</td>
+                                                                <td><strong>Wakil Ketua</strong></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>4</td>
+                                                                <td>H. Agus Solihin</td>
+                                                                <td><strong>Wakil Ketua</strong></td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                                <div class="table-responsive table-borderless">
+                                                    <table class="table table-striped table-bordered table-hover">
+                                                        <thead>
+                                                            <tr>
+                                                                <th class="text-center text-primary">Anggota:</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>5</td>
+                                                                <td>Purwanto, S.Pd.</td>
+                                                                <td>9</td>
+                                                                <td>Ir. Abdul Mahfuri</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>6</td>
+                                                                <td>Enil Fahdaliza</td>
+                                                                <td>10</td>
+                                                                <td>Dra. Aida Cakrawati</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>7</td>
+                                                                <td>H. Amrulah</td>
+                                                                <td>11</td>
+                                                                <td>Ahmad Dahlan</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>8</td>
+                                                                <td>H. Nabsun</td>
+                                                                <td>12</td>
+                                                                <td>Euis Romaya</td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                                <div class="table-responsive table-borderless">
+                                                    <table class="table table-bordered">
+                                                        <thead>
+                                                            <tr>
+                                                                <th class="text-center text-primary">Untuk:</th>
+                                                                <th class="text-justify text-primary">Menghadiri rapat koordinasi nasional (rakornas) II dan seminar Nasional tahun 2019 dengan tema "Pembaruan pengelolaan keuangan daerah."</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody></tbody>
+                                                    </table>
+                                                </div>
+                                                <div class="table-responsive table-borderless">
+                                                    <table class="table table-bordered">
+                                                        <thead>
+                                                            <tr>
+                                                                <th class="text-center text-primary"></th>
+                                                                <th class="text-justify text-dark">Demikian untuk dilaksanakan sebagaimana mestinya.</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody></tbody>
+                                                    </table>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
